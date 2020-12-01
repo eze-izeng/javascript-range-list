@@ -1,22 +1,22 @@
 # Range List
 
-#### Description
+### Description
 
 A simple implementation of Range List in JavaScript with test cases written in mocha.
 
-#### Install dependencies
+### Install dependencies
 
 ```
 npm install
 ```
 
-#### Run Example
+### Run Example
 
 ```
 npm start
 ```
 
-#### Test
+### Test
 
 ```
 npm test
