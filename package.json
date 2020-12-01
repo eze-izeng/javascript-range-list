@@ -1,0 +1,19 @@
+{
+  "name": "javascript-range-list",
+  "version": "0.0.1",
+  "description": "A simple implementation of RangeList in JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index",
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "RangeList"
+  ],
+  "author": "Yifan Zeng",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
